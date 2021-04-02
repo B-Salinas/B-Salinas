@@ -12,4 +12,4 @@ Hi, I'm Bianca "B" Salina, a passionate full stack web developer from Austin, TX
 - 🌱 I’m currently learning JavaScript
 
 **Languages and Tools**
-JavaScript, Node.JS, PostgreSQL, Express.JS, CSS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Salinas&theme=tokyonight)
