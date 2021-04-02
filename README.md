@@ -11,5 +11,3 @@ Hi, I'm Bianca "B" Salina, a passionate full stack web developer from Austin, TX
 - 🔭 I’m currently on Week 12/24 of [App Academy](https://www.appacademy.io/)'s Full Stack Software-Engineering Program 🧑🏽‍🎓
 - 🌱 I’m currently learning JavaScript
 
-**Languages and Tools**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Salinas&theme=tokyonight)
