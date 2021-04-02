@@ -3,7 +3,7 @@
 <!--
 **B-Salinas/B-Salinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-salinas)](https://github.com/b-salinas/github-readme-stats)
+[![B Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Salinas)](https://github.com/B-Salinas/github-readme-stats)
 
 Here are some ideas to get you started:
 
