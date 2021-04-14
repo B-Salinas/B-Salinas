@@ -8,6 +8,6 @@
 
 > Hi, I'm Bianca "B" Salinas, a passionate full stack web developer from Austin, TX ☀️🏙
 >
-> - 🔭  I’m currently on Week 13/24 of [App Academy](https://www.appacademy.io/)'s Full Stack Software-Engineering Program 🧑🏽‍🎓
-> - 🌱  I’m currently learning JavaScript, Node.Js, PostgreSQL, Express.Js, and CSS 👾
+> - 🔭  I’m currently on Week 14/24 of [App Academy](https://www.appacademy.io/)'s Full Stack Software-Engineering Program 🧑🏽‍🎓
+> - 🌱  I’m currently learning React, JavaScript, Node.Js, PostgreSQL, Express.Js, and CSS 👾
 > - 📝  I'm currently on [LinkedIn](https://www.linkedin.com/in/b-salinas/)
