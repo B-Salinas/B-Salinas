@@ -6,7 +6,7 @@
 
 ![B Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark)
 
-> Hi, I'm Bianca "B" Salinas, a passionate full stack web developer from Austin, TX ☀️🏙
+> Hi, I'm Bianca "B" Salinas, a full stack web developer-in-training from Austin, TX ☀️🏙
 >
 > - 🔭  I’m currently on Week 14/24 of [App Academy](https://www.appacademy.io/)'s Full Stack Software-Engineering Program 🧑🏽‍🎓
 > - 🌱  I’m currently learning React, JavaScript, Node.Js, PostgreSQL, Express.Js, and CSS 👾
