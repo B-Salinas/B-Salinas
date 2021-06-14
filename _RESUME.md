@@ -38,5 +38,5 @@
 ## Experience
 
 ## Experience
-- _Software Engineering Certificate_, **App Academy**
-- _B.S., Mathematics_, **St. Edward's University**
+- _Software Engineering Certificate_, **App Academy**, 2021
+- _B.S., Mathematics_, **St. Edward's University**, 2019
