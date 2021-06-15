@@ -11,3 +11,5 @@
 > - 🔭  I’m currently on Week 22/24 of [App Academy](https://www.appacademy.io/)'s Full Stack Software-Engineering Program 🧑🏽‍🎓
 > - 🌱  I’m currently learning React, JavaScript, Node.Js, PostgreSQL, Express.Js, and CSS 👾
 > - 📝  I'm currently on [LinkedIn](https://www.linkedin.com/in/b-salinas/)
+
+![](https://komarev.com/ghpvc/?username=b-salinas)
