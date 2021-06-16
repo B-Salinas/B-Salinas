@@ -8,7 +8,7 @@
 # Skills
 
 #### Preferred Setup
-![Mac OS](https://img.shields.io/badge/MacOS-30363D?style=for-the-badge&logo=apple&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac-OS-30363D?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
