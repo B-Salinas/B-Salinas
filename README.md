@@ -4,7 +4,8 @@
 ![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
 
 > Hey, I'm Bianca "B" Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
-> 
+
+<h3 align="center"> My Favorite Technologies </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
