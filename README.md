@@ -1,11 +1,11 @@
-### Hi there 👋🏽 
+# Hi there 👋🏽 
 ![B Salinas's Github Profile Views](https://komarev.com/ghpvc/?username=b-salinas)
 
 ![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
 
 > I'm B Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
-## Skills
+# Skills
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
