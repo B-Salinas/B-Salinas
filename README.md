@@ -1,9 +1,7 @@
-### Hi there 👋🏽
+### Hi there 👋🏽 I'm Bianca "B" Salinas, a full stack web developer-in-training from Austin, TX ☀️🏙
 ![B Salinas's Github Profile Views](https://komarev.com/ghpvc/?username=b-salinas)
 
 ![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
-
-> Hi, I'm Bianca "B" Salinas, a full stack web developer-in-training from Austin, TX ☀️🏙
 
 ## Skills
 
