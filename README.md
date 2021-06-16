@@ -3,7 +3,7 @@
 
 ![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
 
-### I'm B Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
+> I'm B Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
 ## Skills
 
@@ -34,6 +34,8 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
+
+<h3 align="center"> 👋🏽 Feel free to connect with me below! </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b-salinas/">
