@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center"> 👋🏽 Feel free to connect with me below! </h3>
+<h3 align="center"> 👋🏽  Feel free to connect with me below! </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b-salinas/">
