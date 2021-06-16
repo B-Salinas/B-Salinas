@@ -5,13 +5,12 @@
 
 > I'm B Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
-# Skills
-
-### Preferred Setup
+# Preferred Setup
 ![Mac OS](https://img.shields.io/badge/Mac_OS-30363D?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+# Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
