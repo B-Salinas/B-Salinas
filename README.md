@@ -3,7 +3,7 @@
 
 ![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
 
-> I'm B Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
+> Hey, I'm Bianca "B" Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
 # Preferred Setup
 ![Mac OS](https://img.shields.io/badge/Mac_OS-30363D?style=for-the-badge&logo=apple&logoColor=white)
@@ -44,6 +44,19 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+# Favorite Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 ---
 
