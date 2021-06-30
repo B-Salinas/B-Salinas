@@ -1,12 +1,8 @@
-<h1 align="center"> Hey There 👋🏽 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true" alt="B Salinas's Github Stats">
 </p>
-
-> Hey, I'm Bianca "B" Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
 <h2 align="center"> My Favorite Technologies </h2>
 
