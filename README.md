@@ -1,6 +1,6 @@
+<h1 align="center"> Hey There 👋🏽 </h1>
 
 <p align="center">
-  <h1> Hey There 👋🏽 </h1>
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true" alt="B Salinas's Github Stats">
@@ -8,8 +8,9 @@
 
 > Hey, I'm Bianca "B" Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
+<h2 align="center"> My Favorite Technologies </h2>
+
 <p align="center">
-  <h3> My Favorite Technologies </h3>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
