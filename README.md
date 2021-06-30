@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true" alt="B Salinas's Github Stats">
 </p>
 
-<h2 align="center"> My Favorite Technologies </h2>
+<h3 align="center"> Technologies I'm Comfortable With </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
