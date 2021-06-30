@@ -1,7 +1,8 @@
 # Hi there 👋🏽 
-![B Salinas's Github Profile Views](https://komarev.com/ghpvc/?username=b-salinas)
-
-![B Salinas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true)
+<p align="center>
+  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true" alt="B Salinas's Github Stats">
+</p>
 
 > Hey, I'm Bianca "B" Salinas, a Designer & Software Engineer from Austin, TX ☀️🏙
 
