@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <br />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Salinas&theme=calm" alt="B Salinas's Github Stats">
 </p>
 
