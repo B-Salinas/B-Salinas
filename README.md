@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=B-Salinas&show_icons=true&theme=onedark&count_private=true" alt="B Salinas's Github Stats">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Salinas&theme=calm" alt="B Salinas's Github Stats">
 </p>
 
 <h3 align="center"> Technologies I'm Comfortable With </h3>
