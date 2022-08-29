@@ -51,7 +51,7 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 ***
 
 
-<-- 
+--> 
 # Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -86,4 +86,4 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
--->
+<--
