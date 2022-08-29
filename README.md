@@ -1,4 +1,4 @@
-**Hi, I'm B and I'm a Full-Stack Software Engineer based out of Edinburg, Texas!**
+**Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
 
 - I graduated from App Academy, a +1400-hour full-stack software development bootcamp, where I honed my skills in: **JavaScript (ES6), Python, React.js, Redux.js, PostgreSQL** and more.
 - Fun Fact: I also graduated from St. Edward's University with a degree in Mathematics.
