@@ -8,12 +8,9 @@
   After graduating from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy, I diagionally jumped careers by attending <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp. I enjoy working with Python, JavaScript (ES6), React/Redux/Chakra-UI, HTML5/CSS3, SQL, Git/Github, and Markdown. My passions align with learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces ––– the Metaverse 👾 🌌
 </p>
   
-And in my free time, I can be found outside walking around or reading ––– "The 7 Habits of Highly Effective People" by Stephen R. Covey as of Aug 2022. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
+And in my free time, I can be found outside walking around or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 </p>
 
-
-
-<!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
 
 - I graduated from App Academy, a +1400-hour full-stack software development bootcamp, where I honed my skills in: **JavaScript (ES6), Python, React.js, Redux.js, PostgreSQL** and more.
@@ -41,10 +38,10 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
--->
 
 
-<!-- # Skills
+
+# Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -78,4 +75,4 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
- -->
+ 
