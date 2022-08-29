@@ -5,10 +5,10 @@
 </p>
 
 <p>  
-  After graduating from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy, I diagionally jumped careers by attending <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp. I enjoy working with Python, JavaScript (ES6), React/Redux/Chakra-UI, HTML5/CSS3, SQL, Git/Github, and Markdown. My passions align with learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces -- the Metaverse 👾 🌌
+  After graduating from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy, I diagionally jumped careers by attending <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp. I enjoy working with Python, JavaScript (ES6), React/Redux/Chakra-UI, HTML5/CSS3, SQL, Git/Github, and Markdown. My passions align with learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces --- the Metaverse 👾 🌌
 </p>
   
-And in my free time, I can be found outside walking around or reading -- "The 7 Habits of Highly Effective People" by Stephen R. Covey as of Aug 2022. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
+And in my free time, I can be found outside walking around or reading --- "The 7 Habits of Highly Effective People" by Stephen R. Covey as of Aug 2022. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 </p>
 
 
