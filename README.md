@@ -1,5 +1,5 @@
 ### Hi, I'm B! 👋🏽 🥸
-** I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ Ender, a Real Estate Tech. Company in Austin, TX. ** 
+**I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ Ender, a Real Estate Tech. Company in Austin, TX.** 
 
 <p>  
 After graduating from [St. Edward's University](https://www.stedwards.edu/) with a B.S. in Mathematics and a Minor in Philosophy, I diagionally jumped careers by attending [App Academy](https://www.appacademy.io/), a full-stack software engineering bootcamp. I enjoy working with Python, JavaScript (ES6), React/Redux/Chakra-UI, HTML5/CSS3, SQL, Git/Github, and Markdown. My passions align with learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces -- the Metaverse 👾 🌌
