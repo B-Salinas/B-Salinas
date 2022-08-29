@@ -18,7 +18,7 @@ I enjoy <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge
 
 ***
 
-<--
+<!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
 
 - I graduated from App Academy, a +1400-hour full-stack software development bootcamp, where I honed my skills in: **JavaScript (ES6), Python, React.js, Redux.js, PostgreSQL** and more.
@@ -48,10 +48,8 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 </p>
 -->
 
-***
 
-
---> 
+<!-- 
 # Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -86,4 +84,4 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-<--
+-->
