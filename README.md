@@ -1,5 +1,5 @@
 ### Hi, I'm B! 👋🏽 🥸
-**I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ <color="purple"> Ender </> in Austin, TX.** 
+**I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ <span color="purple"> Ender </span> in Austin, TX.** 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
