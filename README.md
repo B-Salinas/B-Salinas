@@ -11,6 +11,8 @@
 And in my free time, I can be found outside walking around or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 </p>
 
+***
+
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
 
 - I graduated from App Academy, a +1400-hour full-stack software development bootcamp, where I honed my skills in: **JavaScript (ES6), Python, React.js, Redux.js, PostgreSQL** and more.
@@ -39,6 +41,7 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
+***
 
 
 # Skills
