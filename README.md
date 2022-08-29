@@ -1,4 +1,8 @@
-/heading3 Hi, I'm B! :) 
+### Hi, I'm B! :)
+#### I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ Ender in Austin, TX. 
+
+In my free time, I can be found outside, walking around the city, or reading ("The 7 Habits of Highly Effective People" by Stephen R. Covey is the book of the month). I'm currently interested in Blockchain Technology, AIs, and Web3 Spaces -- the Metaverse.
+- 
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
