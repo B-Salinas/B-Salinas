@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
-- Graduating from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy 
+- Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy 
 - Attended <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp
 - Currently learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces ––– the Metaverse 👾 🌌
 
