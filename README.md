@@ -2,9 +2,20 @@
 #### I'm a Mathematician, Full-Stack & Quality Assurance Engineer @ Ender in Austin, TX.  
 
 <p>
-In my free time, I can be found outside, walking around the city, or reading ("The 7 Habits of Highly Effective People" by Stephen R. Covey is the book of the month). I'm currently interested in Blockchain Technology, AIs, and Web3 Spaces -- the Metaverse.
+In my free time, I can be found outside, walking around the city, or reading ("The 7 Habits of Highly Effective People" by Stephen R. Covey is the book of the month). 
+</p>
 
-  </p>
+<p>  
+After graduating with a B.S. in Mathematics and a Minor in Philosophy from St. Edward's University, I diagionally jumped careers by attending [App Academy](https://www.appacademy.io/), a full-stack software engineering bootcamp. I like working with Python, JavaScript (ES6), React/Redux, Chakra-UI, HTML5/CSS3, Flask, Express, Node, PostgreSQL, Git/Github, and Markdown. I'm currently interested in Automation, BlockChain Technology, AIs, and Web 3 spaces --- the Metaverse.
+</p>
+
+
+
+
+
+
+
+
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
