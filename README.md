@@ -3,7 +3,7 @@
 
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy 
 - Attended <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp
-- Currently learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces ––– the Metaverse 🌌
+- Currently learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web 3 Spaces 
 
 <p>
 And in my free time, I can be found outside walking around or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
