@@ -1,8 +1,5 @@
 ### Hi, I'm B! 👋🏽 🥸
 **I'm a Mathematician and Full-Stack Engineer in Austin, TX.** 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
-</p>
 
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy 
 - Attended <a href="https://www.appacademy.io"> App Academy </a>, a full-stack software engineering bootcamp
@@ -21,6 +18,10 @@ And in my free time, I can be found outside walking around or reading ––– 
 <div align="center" justify-content="space-between">
    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
+</p>
 
 
 <!--
