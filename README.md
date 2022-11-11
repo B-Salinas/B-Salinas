@@ -4,7 +4,7 @@
 - Graduated with a B.S. in Mathematics and a Minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a> .  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, 1400+ hour full-stack software engineering bootcamp.
 
-I'm currently learning Ethereum, Solidity, and Ruby. I like math, 3D-art, and minimalism. And some of my favorite skills include JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, and Markdown. 
+Currently learning Ruby, Solidity, and Ethereum. I like math, 3D-art, and minimalism. And some of my favorite skills include JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, and Markdown. 
 
 <p>
 And in my free time, I can be found outside walking or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
