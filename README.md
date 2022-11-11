@@ -26,8 +26,6 @@ And in my free time, I can be found outside walking or reading ––– I'm cur
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
-<br/>
-
 I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 
 <!--
