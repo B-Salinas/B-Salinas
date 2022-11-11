@@ -1,14 +1,10 @@
-### I'm B 
+### I'm B 🤖
 **Mathematician & Full-Stack Engineer in Austin, TX.** 
 
 - Graduated with a B.S. in Mathematics and a Minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a> .  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, 1400+ hour full-stack software engineering bootcamp.
 
-Interests:
-- Ethereum, Solidity, Ruby
-- Math, 3D spaces, art, minimalism, consistency
-
-Skills
+I'm interested in Ethereum, Solidity, and Ruby. I like math, 3D-art, and minimalism. I have experiencing using the following languages and tools:
 - Frontend: JavaScript, TypeScript, HTML5/CSS3, React, Redux, Chakra-UI
 - Backend: Python, Java, Flask, SQL, PostgreSQL, Sequelize
 - Automation/Testing: Ghost Inspector, Playwright, Postman
