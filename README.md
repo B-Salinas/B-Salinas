@@ -1,12 +1,21 @@
-### Hi, I'm B! 🤖
-**I'm a Mathematician and Full-Stack Engineer in Austin, TX.** 
+### I'm B 
+**Mathematician & Full-Stack Engineer in Austin, TX.** 
 
-- Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a Minor in Philosophy 
-- Attended <a href="https://www.appacademy.io">App Academy</a>, a full-stack software engineering bootcamp
-- Currently learning about Automation, AIs, BlockChain Technology, Quantum Physics, and Web3 Spaces 
+- Graduated with a B.S. in Mathematics and a Minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a> .  
+- Attended <a href="https://www.appacademy.io">App Academy</a>, 1400+ hour full-stack software engineering bootcamp.
+
+Interests:
+- Ethereum, Solidity, Ruby
+- Math, 3D spaces, art, minimalism, consistency
+
+Skills
+- Frontend: JavaScript, TypeScript, HTML5/CSS3, React, Redux, Chakra-UI
+- Backend: Python, Java, Flask, SQL, PostgreSQL, Sequelize
+- Automation/Testing: Ghost Inspector, Playwright, Postman
+- Design: Figma, Notion, Adobe Creative Cloud, Gatsby Markdown, LaTeX
 
 <p>
-And in my free time, I can be found outside walking around or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm also a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
+And in my free time, I can be found outside walking or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 </p>
 
 ***
