@@ -7,7 +7,7 @@
 Currently learning Ruby, Solidity, and Ethereum. I like math, 3D-art, and minimalism. And some of my favorite skills include JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, and Markdown. 
 
 <p>
-And in my free time, I can be found outside walking or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
+And in my free time, I can be found outside walking or reading ––– I'm currently reading "The 7 Habits of Highly Effective People" by Stephen R. Covey. 
 </p>
 
 ***
@@ -20,10 +20,15 @@ And in my free time, I can be found outside walking or reading ––– I'm cur
    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
+<br/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
+<br/>
+
+I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
