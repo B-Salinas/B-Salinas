@@ -3,7 +3,7 @@
 
 - Graduated with a B.S. in Mathematics and a Minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a> .  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, 1400+ hour full-stack software engineering bootcamp.
-- Check out my [portfolio](https://bsalinas.gtsb.io/) -- I'm looking for a job! 
+- [personal website](https://bsalinas.gtsb.io/)
 
 Currently learning Ruby, Solidity, and Ethereum. I like math, 3D-art, and minimalism. And some of my favorite skills include JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, and Markdown. 
 
