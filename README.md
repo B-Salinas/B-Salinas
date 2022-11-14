@@ -1,4 +1,4 @@
-### Hi, I'm B 🤖
+### Hi, I'm B 🤖 👾 🌀
 **Mathematician & Full-Stack Engineer in Austin, TX.** 
 
 - Graduated with a B.S. in Mathematics and a Minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a> .  
