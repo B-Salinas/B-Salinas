@@ -18,15 +18,11 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
-<br/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
-***
-
-🇲🇽 🇺🇸 🏳️‍🌈 
+🇺🇸 🇲🇽 🏳️‍🌈 
 
 <p align="center" >
     <em> "You gonna make it. And when you make it, keep the same perspective." </em>  
