@@ -27,10 +27,12 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
 ***
 
 Proud member of the Hispanic & Queer communities 🇲🇽 🇺🇸 🏳️‍🌈 
+
 <br />
-<c>
+
+<p align="center">
 _"You gonna make it. And when you make it, keep the same perspective." - Pharrell Williams_
-</c>
+</p>
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
