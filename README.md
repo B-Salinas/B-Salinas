@@ -28,9 +28,20 @@ I like the union of math, philosophy, and art. In my free time, I'm outside walk
     <em> - Pharrell Williams </em> 
 </p>
 
+🇲🇽 🇺🇸 🏳️‍🌈
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
+
+
+
+
+
+
+
+
+
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
@@ -57,8 +68,6 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
-
-🇲🇽 🇺🇸 🏳️‍🌈
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
