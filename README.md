@@ -18,7 +18,7 @@ I like the union of math, philosophy, and art. In my free time, I'm outside walk
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=b-salinas&count_private=true&show_icons=true&theme=onedark"> </img>
+    <img src="https://github-readme-stats.vercel.app/api?username=b-salinas&count_private=true&show_icons=true"> </img>
 </div>
 
 <br />
