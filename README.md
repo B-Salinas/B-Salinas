@@ -9,7 +9,6 @@ I like the intersection of math, philosophy, and art. In my free time, I'm outsi
 <!--
 Some of my favorite languages and frameworks are JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, Git, and Markdown. 
 -->
-***
 
 <div align="center" justify-content="space-between">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -25,7 +24,13 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
 
-I'm a proud member of the Hispanic & Queer community 🇲🇽 🇺🇸 🏳️‍🌈
+***
+
+Proud member of the Hispanic & Queer communities 🇲🇽 🇺🇸 🏳️‍🌈 
+<br />
+<c>
+_"You gonna make it. And when you make it, keep the same perspective." - Pharrell Williams_
+</c>
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
