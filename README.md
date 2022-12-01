@@ -28,12 +28,11 @@ I like the union of math, philosophy, and art. In my free time, I'm outside walk
     <em> - Pharrell Williams </em> 
 </p>
 
-🇲🇽 🇺🇸 🏳️‍🌈
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
 
+🇲🇽 🇺🇸 🏳️‍🌈
 
 
 
