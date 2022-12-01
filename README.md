@@ -26,7 +26,7 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
     <em> - Pharrell Williams </em> 
 </p>
 
-🇲🇽 🇺🇸 🏳️‍🌈
+🇲🇽 🇺🇸 🏳️‍🌈 🏳️‍⚧️
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
