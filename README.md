@@ -30,8 +30,9 @@ Proud member of the Hispanic & Queer communities 🇲🇽 🇺🇸 🏳️‍�
 
 <br />
 
-<p align="center">
-_"You gonna make it. And when you make it, keep the same perspective." - Pharrell Williams_
+<p align="center" >
+    <em> "You gonna make it. And when you make it, keep the same perspective." </em>
+    <em> - Pharrell Williams </em>
 </p>
 
 <!--
