@@ -58,6 +58,8 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
+🇲🇽 🇺🇸 🏳️‍🌈
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
 </p>
