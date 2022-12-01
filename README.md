@@ -1,4 +1,3 @@
-🇺🇸 🇲🇽 🏳️‍🌈
 ### 🐲 🤖 👾 Hi, I'm B 
 **Mathematician & Full-Stack Engineer in Austin, TX.** 
 
@@ -22,15 +21,14 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
 <br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
+  🇺🇸 🇲🇽 🏳️‍🌈
 </p>
 
 <p align="center" >
-    <em> "You gonna make it. And when you make it, keep the same perspective." </em>  
-</p>
-
-<p align="center">
-    <em> Pharrell Williams </em>
+    <em> "You gonna make it. And when you make it, keep the same perspective." </em>
+    <br />
+    <em> Pharrell Williams </em> 
 </p>
 
 <!--
