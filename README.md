@@ -1,10 +1,10 @@
-### 🤖 👾 🐲 🤖 👾 🐲 🤖 👾 🐲 🤖 👾 🐲 🤖 👾 Hi, I'm B 🐲 🤖 👾 🐲 🤖 👾 🐲 🤖 👾 🐲 🤖 👾 🐲 🤖
+### 🐲 🤖 👾 Hi, I'm B 🐲 🤖 👾
 **Mathematician & Full-Stack Engineer in Austin, TX.** 
 
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a minor in Philosophy  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
 
-I like the intersection of math, philosophy, and art. In my free time, I'm outside walking my dog or reading _The 7 Habits of Highly Effective People_ or _Love in the Time of Cholera_. Currently dusting off my higher order math notes and messing around with 💎 
+I like the intersection of math, philosophy, and art. In my free time, I'm outside walking my dog or reading _The 7 Habits of Highly Effective People_ or _Love in the Time of Cholera_. Currently dusting off my higher order math notes and messing around with ruby 💎 
 
 <!--
 Some of my favorite languages and frameworks are JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, Git, and Markdown. 
