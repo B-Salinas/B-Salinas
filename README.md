@@ -1,5 +1,5 @@
 ### 🐲 🤖 👾 Hi, I'm B 👾 🤖 🐲
-** 📐 Mathematician 🧮 & 💾 Full-Stack Engineer 🪣 & 🎨 Creative 🖼 in 📍 Austin, TX.** 
+<strong> 📐 Mathematician 🧮 & 💾 Full-Stack Engineer 🪣 & 🎨 Creative 🖼 in 📍 Austin, TX </strong>
 
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a minor in Philosophy  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
