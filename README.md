@@ -1,6 +1,5 @@
 ### 🐲 🤖 👾 Hi, I'm B 👾 🤖 🐲
 <strong> Mathematician & Full-Stack Engineer </strong>
-###### 📍 Austin, TX
 
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a minor in Philosophy  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
@@ -32,6 +31,8 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
+
+###### 📍 Austin, TX
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
