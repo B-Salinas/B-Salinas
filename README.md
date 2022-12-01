@@ -20,9 +20,10 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
 
 <br />
 
+🇺🇸 🇲🇽 🏳️‍🌈
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
-  🇺🇸 🇲🇽 🏳️‍🌈
 </p>
 
 <p align="center" >
