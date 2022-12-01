@@ -26,9 +26,7 @@ Some of my favorite languages and frameworks are JavaScript, Python, SQL/Postgre
 
 ***
 
-Proud member of the Hispanic & Queer communities 🇲🇽 🇺🇸 🏳️‍🌈 
-
-<br />
+🇲🇽 🇺🇸 🏳️‍🌈 
 
 <p align="center" >
     <em> "You gonna make it. And when you make it, keep the same perspective." </em>  
