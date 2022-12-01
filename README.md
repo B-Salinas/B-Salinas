@@ -1,6 +1,8 @@
 ### 🐲 🤖 👾 Hi, I'm B
 <strong> Mathematician & Full-Stack Engineer </strong>
 
+[![B Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-salinas)](https://github.com/anuraghazra/github-readme-stats)
+
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a minor in Philosophy  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
 
