@@ -6,7 +6,7 @@
 I like the union of math, philosophy, and art. In my free time, I'm outside walking my dog Linus and reading _The 7 Habits of Highly Effective People_ or _Love in the Time of Cholera_. Currently dusting off my higher order math notes and messing around with  💎
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=b-salinas&count_private=true&show_icons=true&theme=synthwave"> </img>
+    <img src="https://github-readme-stats.vercel.app/api?username=b-salinas&count_private=true&show_icons=true&theme=highscontrast"> </img>
 </div>
 
 <br />
