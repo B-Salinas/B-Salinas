@@ -6,6 +6,8 @@
 
 I like the intersection of math, philosophy, and art. In my free time, I'm outside walking my dog or reading _The 7 Habits of Highly Effective People_ or _Love in the Time of Cholera_. Currently dusting off my higher order math notes and messing around with ruby 💎 
 
+<br />
+
 <!--
 Some of my favorite languages and frameworks are JavaScript, Python, SQL/PostgreSQL, React with Chakra-UI, Postman, Figma, Notion, Git, and Markdown. 
 -->
