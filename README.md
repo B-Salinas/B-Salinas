@@ -3,7 +3,7 @@
 - Graduated from <a href="https://www.stedwards.edu"> St. Edward's University </a> with a B.S. in Mathematics and a minor in Philosophy  
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
 
-I like the union of math, philosophy, and art. In my free time, I'm outside walking my dog Linus, writing, or reading _The 7 Habits of Highly Effective People_ (or _Love in the Time of Cholera_). Currently dusting off my higher order math notes and messing around with Ruby to map out my latest passion project, [b-nodes](https://github.com/B-Salinas/b-nodes), a way to be.
+I like the union of math, philosophy, and art. In my free time, I'm outside walking my dog Linus, writing, or reading _The 7 Habits of Highly Effective People_ (or _Love in the Time of Cholera_). Currently dusting off my higher order math notes and messing around with Ruby to map out my passion project [b-nodes](https://github.com/B-Salinas/b-nodes).
 
 <br />
 
