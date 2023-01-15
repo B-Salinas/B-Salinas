@@ -24,7 +24,6 @@ Combined all my passions and interests into one project: [b-nodes](https://githu
 </div>
 -->
 
-<br />
 <p align="center" >
     <em> "You gonna make it. And when you make it, keep the same perspective." </em>
     <br />
