@@ -1,4 +1,4 @@
-### 👋🏽 Hi, I'm B, short for Bianca
+### Hey, I'm B 👋🏽
 
 - B.S. in Mathematics with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
