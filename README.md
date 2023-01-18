@@ -2,7 +2,7 @@
 - B.S. in Mathematics with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
 
-I like math, philosophy, and art. If I'm not behind a screen, I'm exploring, writing, or with my dog Linus. I'm currently reading _Stoicism for Inner Peace_ and _The 7 Habits of Highly Effective People_. 
+I like math, philosophy, and art. If I'm not behind a screen, I'm exploring, writing, or with my dog Linus. I'm currently reading _The 7 Habits of Highly Effective People_. 
 
 Combined all my passions and interests into one project: [b-nodes](https://github.com/B-Salinas/b-nodes)
 
