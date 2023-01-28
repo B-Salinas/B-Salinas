@@ -1,7 +1,7 @@
 ### 👋🏽 Hey, I'm B 
 - B.S. in Mathematics with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
-- Portfolio [here](https://b-salinas.dev/)
+- [Portfolio](b-salinas.dev) | [Linkedin](https://www.linkedin.com/in/b-salinas/) | [Email](mailto:b.salinas397@gmail.com)
 
 I like math, philosophy, and art. If I'm not behind a screen, I'm exploring, writing, or with my dog Linus. I'm currently reading _The 7 Habits of Highly Effective People_. 
 
