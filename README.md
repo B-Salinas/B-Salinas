@@ -2,18 +2,6 @@
 - B.S. in Mathematics with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/b-salinas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:b.salinas397@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-    <a href="https://b-salinas.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
-</p>
-
 I like math, philosophy, and art. If I'm not behind a screen, I'm exploring, writing, or with my dog Linus. I'm currently reading _The 7 Habits of Highly Effective People_. 
 
 Combined all my passions and interests into one project: [b-nodes](https://github.com/B-Salinas/b-nodes)
@@ -50,6 +38,18 @@ Combined all my passions and interests into one project: [b-nodes](https://githu
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
+</p>
+
+<p align="left">
+  <a href="https://b-salinas.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
+  <a href="https://www.linkedin.com/in/b-salinas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:b.salinas397@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 
