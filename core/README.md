@@ -1,96 +1,50 @@
-### Hey, I'm B 👋🏽
+<center>
+  <a href="" target="_blank"> 
+    <i> About Me </i> 
+  </a> | 
+  <a href="" target="_blank"> 
+    <i> <b> ⭐️ Top Repos ⭐️ </b> </i> 
+  </a> | 
+  <a href="" target="_blank"> 
+    Experience
+  </a> | 
+  <a href="" target="_blank"> 
+    <b> Resume </b> 
+  </a> 
+</center>
+
+# Hey, I'm B 👋🏽
 
 - **B.S. in Mathematics**<sup>(with a minor in Philosophy)</sup> from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a><sup>(a 1400+ hour full-stack software engineering bootcamp)</sup>
 
-
-I like math, philosophy, and art. Balance is important to me. (If I'm not behind a screen, I'm with my dog Linus.)
-
-Currently Reading:
-- The Color Purple by 
-- Tiebatn Book of Living and Dying by 
-- Battle Royale by 
-Up Next on the Queue:
-- The Four Agreements by 
-- Between the World and Me by
-THE REST OF MY BOOKS
-
-Recommended Reads:
-- The 7 Habits of Highly Effective People
-
-
-
-Repos:
-- LINK TO FILTERED SEARCH OF MY REPOS
-
-Top Repo Summaries
-- [b-nodes](https://github.com/B-Salinas/b-nodes): All my passions into one project -- how do we "be"?
-- [leet code](): my attempts/solutions to leet code problems, sorted by difficulty level
-- [algos](): Practicing common algorithms
-THE REST OF MY TOP REPOS
-
-Project Repos:
-Art
-- [Spinning Donut]()
-
-Database Querying & Manipulation:
-- [YGO GX DA Deck Builder]()
-
-
+I like math, philosophy, and art. Balance is important to me, and my dog Linus.
 
 <br />
 
 <div align="center" justify-content="space-between">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
+     
 </div>  
   
 <div align="center" justify-content="space-between">
-   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</div>
-
-<div align="center" justify-content="space-between">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
 
 <br />
-
-<!--
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=b-salinas&count_private=true&show_icons=true"> </img>
-</div>
--->
-
-<p align="center" >
-    <em> "You gonna make it. And when you make it, keep the same perspective." </em>
-    <br />
-    <em> - Pharrell Williams </em> 
-</p>
 
 🇲🇽 🇺🇸 🏳️‍🌈
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
-
-<p align="left">
-  <a href="https://b-salinas.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
-  <a href="https://www.linkedin.com/in/b-salinas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:b.salinas397@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-
-
-
-
-
-
-
 
 <!--
 **Hi, I'm B and I'm a Full-Stack Software Engineer based out of Austin, TX!**
@@ -99,7 +53,7 @@ Database Querying & Manipulation:
 - Fun Fact: I also graduated from St. Edward's University with a degree in Mathematics.
 - I am currently looking for a position where I can continue to make a meaningful impact while nurturing my skills.
 
-Check out my portfolio [here](http://b-salinas.dev), let's connect! 
+Check out my portfolio [here](http://b-salinas.dev), let's connect!
 
 **Languages and Technologies I use:**
 <p>
@@ -112,7 +66,7 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">  
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
@@ -123,7 +77,7 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 </p>
 -->
 
-<!-- 
+<!--
 # Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
