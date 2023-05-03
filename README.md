@@ -1,4 +1,4 @@
-<center>
+<p align="center">
   <a href="" target="_blank"> 
     <i> About Me </i> 
   </a> | 
@@ -11,7 +11,7 @@
   <a href="" target="_blank"> 
     <b> Resume </b> 
   </a> 
-</center>
+</p>
 
 # Hey, I'm B 👋🏽
 
