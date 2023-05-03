@@ -1,10 +1,42 @@
-### 👋🏽 Hey, I'm B 
-- B.S. in Mathematics with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
-- Attended <a href="https://www.appacademy.io">App Academy</a>, a 1400+ hour full-stack software engineering bootcamp
+### Hey, I'm B 👋🏽
 
-I like math, philosophy, and art. If I'm not behind a screen, I'm exploring, writing, or with my dog Linus. I'm currently reading _The Power of Now_. 
+- **B.S. in Mathematics**<sup>(with a minor in Philosophy)</sup> from <a href="https://www.stedwards.edu"> St. Edward's University </a>
+- Attended <a href="https://www.appacademy.io">App Academy</a><sup>(a 1400+ hour full-stack software engineering bootcamp)</sup>
 
-Combined all my passions and interests into one project: [b-nodes](https://github.com/B-Salinas/b-nodes)
+
+I like math, philosophy, and art. Balance is important to me. (If I'm not behind a screen, I'm with my dog Linus.)
+
+Currently Reading:
+- The Color Purple by 
+- Tiebatn Book of Living and Dying by 
+- Battle Royale by 
+Up Next on the Queue:
+- The Four Agreements by 
+- Between the World and Me by
+THE REST OF MY BOOKS
+
+Recommended Reads:
+- The 7 Habits of Highly Effective People
+
+
+
+Repos:
+- LINK TO FILTERED SEARCH OF MY REPOS
+
+Top Repo Summaries
+- [b-nodes](https://github.com/B-Salinas/b-nodes): All my passions into one project -- how do we "be"?
+- [leet code](): my attempts/solutions to leet code problems, sorted by difficulty level
+- [algos](): Practicing common algorithms
+THE REST OF MY TOP REPOS
+
+Project Repos:
+Art
+- [Spinning Donut]()
+
+Database Querying & Manipulation:
+- [YGO GX DA Deck Builder]()
+
+
 
 <br />
 
