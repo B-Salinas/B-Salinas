@@ -1,29 +1,12 @@
-# Hey, I'm B 👋🏽
+- **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
+- Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
 
-<p align="center">
-  <a href="" target="_blank"> 
-    <i> About Me </i> 
-  </a> | 
-  <a href="" target="_blank"> 
-    <i> <b> ⭐️ Top Repos ⭐️ </b> </i> 
-  </a> | 
-  <a href="" target="_blank"> 
-    Experience
-  </a> | 
-  <a href="" target="_blank"> 
-    <b> Resume </b> 
-  </a> 
-</p>
-
-- **B.S. in Mathematics**<sup>(with a minor in Philosophy)</sup> from <a href="https://www.stedwards.edu"> St. Edward's University </a>
-- Attended <a href="https://www.appacademy.io">App Academy</a><sup>(a 1400+ hour full-stack software engineering bootcamp)</sup>
-
-I like math, philosophy, and art. Balance is important to me, and my dog Linus.
 
 <br />
 
 <div align="center" justify-content="space-between">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
@@ -39,6 +22,8 @@ I like math, philosophy, and art. Balance is important to me, and my dog Linus.
 </div>
 
 <br />
+
+I like math, philosophy, and art. Balance is important to me, and my dog Linus.
 
 🇲🇽 🇺🇸 🏳️‍🌈
 
