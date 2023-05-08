@@ -69,11 +69,11 @@ I like math, philosophy, and art. Balance (and my dog) is very important to me.
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
 
-<div>
+<!-- <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="25"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="25"/>  
-</div>
+</div> -->
 
 
 
