@@ -1,18 +1,18 @@
 <header>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>         
 
 - **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
 
-
 <br />
 
 <body>
     <div align="center" justify-content="space-between">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="100" width="50" />
+        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="100" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="100" width="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="100" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" width="50"/>
@@ -202,6 +202,7 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
 
 <!-- OLD README 3 -->
 
+<!--
 <div align="center" justify-content="space-between">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
@@ -214,3 +215,4 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
+-->
