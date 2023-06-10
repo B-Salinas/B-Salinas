@@ -2,8 +2,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header> 
 
-🇲🇽 🇺🇸 🏳️‍🌈 | ✊🏽✊🏾✊🏿 
-
 <body>
     <div align="center" justify-content="space-between">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
@@ -68,6 +66,8 @@ I like math, philosophy, and art. Balance (and my dog) is very important to me.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
 </p>
+
+✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
 
 <!-- <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="25"/>
