@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header> 
 
-I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus.
+<!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
 
 <body>
     <div align="center" justify-content="space-between">
