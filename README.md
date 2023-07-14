@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header> 
 
-<!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
+I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus.
 
 <body>
     <div align="center" justify-content="space-between">
@@ -44,6 +44,7 @@
 
 - **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
+- Check out my <a href="https://b-salinas.dev/">portfolio</a>! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
