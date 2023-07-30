@@ -44,6 +44,7 @@
 
 - **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
+- Check out my [resumes](https://github.com/B-Salinas/resume-pdfs) -- _yes, it's empty right now_
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
