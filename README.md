@@ -4,7 +4,7 @@
 
 <!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
 
-__Last updated:__ Tuesday, August 08, 2023
+__Last updated:__ Tuesday, August 08, 2023 at 3:43 AM CST
 <body>
     <div align="center" justify-content="space-between">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
