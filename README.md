@@ -4,6 +4,7 @@
 
 <!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
 
+Last updated: Tuesday, August 08, 2023
 <body>
     <div align="center" justify-content="space-between">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
