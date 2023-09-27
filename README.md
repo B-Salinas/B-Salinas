@@ -39,6 +39,7 @@
     </div>   
 </body>
 
+[Want to know more about me?](https://github.com/B-Salinas/B-Salinas/blob/main/more.md)
 ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
