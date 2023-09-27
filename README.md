@@ -39,7 +39,7 @@
     </div>   
 </body>
 
-[More about me?](https://github.com/B-Salinas/B-Salinas/blob/main/more.md)  
+[Me?](https://github.com/B-Salinas/B-Salinas/blob/main/more.md)  
 
 ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
 <p align="left">
