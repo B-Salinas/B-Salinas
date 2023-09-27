@@ -1,4 +1,4 @@
-<!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
+I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog [Linus]().
 
 - **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
