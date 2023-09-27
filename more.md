@@ -97,8 +97,3 @@ Check out my portfolio [here](http://b-salinas.dev), let's connect!
    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
 -->
-
-
-
-
-
