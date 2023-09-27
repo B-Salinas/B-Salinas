@@ -6,7 +6,7 @@
 
 <body>
   <p align="center">
-    <img src="spinning-cube.gif" alt="Spinning Donut Gif">
+    <img src="multi-spinning-cube.gif" alt="Multi Spinning Donut Gif (High Def)">
   </p>
   <div align="center" justify-content="space-between">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
