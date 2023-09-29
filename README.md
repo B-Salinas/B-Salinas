@@ -16,6 +16,8 @@
     ·
     <a href="https://github.com/B-Salinas/github-should-have-a-blog"> My Thoughts </a>
     ·
+    <a href="https://github.com/a-salinas"> IRL Bro </a>
+    ·
     🇲🇽 🇺🇸 🏳️‍🌈
   </p>
  
