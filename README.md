@@ -39,8 +39,15 @@
     </div>   
 </body>
 
-[Nov 2022 Resume](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf)  
-✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
-<p align="left">
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
+  · 
+  <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf">Latest Resume</a>  
+  · 
+  <a href="https://github.com/B-Salinas/B-Salinas/blob/main/more.md">About B</a> 
+  ·
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog">My Thoughts</a>
+  ·
+  ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
 </p>
