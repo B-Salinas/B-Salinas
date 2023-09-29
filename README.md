@@ -1,4 +1,4 @@
- <header>
+<header>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header> 
 
@@ -6,6 +6,21 @@
   <p align="center">
     <img src="multi-spinning-cube.gif" alt="Multi Spinning Donut Gif (High Def)" height="300" width="450">
   </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
+    · 
+    <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf">Latest Resume</a>  
+    · 
+    <a href="https://github.com/B-Salinas/B-Salinas/blob/main/more.md">About B</a> 
+    ·
+    <a href="https://github.com/B-Salinas/github-should-have-a-blog">My Thoughts</a>
+    ·
+    ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
+  </p>
+
+  <hr>
+ 
   <div align="center" justify-content="space-between">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" width="50"/>
@@ -36,18 +51,5 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="100" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="100" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="100" width="50"/> -->
-    </div>   
+  </div>   
 </body>
-
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
-  · 
-  <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf">Latest Resume</a>  
-  · 
-  <a href="https://github.com/B-Salinas/B-Salinas/blob/main/more.md">About B</a> 
-  ·
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog">My Thoughts</a>
-  ·
-  ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
-</p>
