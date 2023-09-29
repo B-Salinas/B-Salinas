@@ -39,7 +39,7 @@
     </div>   
 </body>
 
-[Nov 2022 Resume](https://github.com/B-Salinas/B-Salinas/blob/main/more.md)  
+[Nov 2022 Resume](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf)  
 ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views"> 
