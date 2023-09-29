@@ -18,8 +18,6 @@
     ·
     ✊🏽✊🏾✊🏿 🇲🇽 🇺🇸 🏳️‍🌈
   </p>
-
-  <hr>
  
   <div align="center" justify-content="space-between">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="100" width="50"/>
