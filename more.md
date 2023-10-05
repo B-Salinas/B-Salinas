@@ -1,8 +1,10 @@
-I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus.
+<!-- I like math, philosophy, art, finance, cybersecurity, AI, blockchain, and my dog Linus. -->
 
+Some highlights:
 - **B.S. in Mathematics** with a minor in Philosophy from <a href="https://www.stedwards.edu"> St. Edward's University </a>
 - Attended <a href="https://www.appacademy.io">App Academy</a>, a 1600+ hour full-stack software engineering bootcamp
-- Check out my [resume](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf) (last updated 2022-11)
+- Check out my [Resume](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf)! Last Updated on Nov 2022)
+- I'm interested in math, philosophy, art (visual representation), finance, cybersecurity, Web3, AI, and Blockchains!
 
 <div align="center">
   <img src="/other/Linus.png" height="350" width="250" />
