@@ -18,6 +18,8 @@
     ·
     <a href="https://github.com/a-salinas"> IRL Bro </a>
     ·
+    <a href="https://github.com/B-Salinas/QUBE"> QUBE </a>
+    ·
     🇲🇽 🇺🇸 🏳️‍🌈
   </p>
  
