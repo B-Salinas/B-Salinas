@@ -55,9 +55,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="100" width="50"/>
       </div>
   </div>
-<!--
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">   
   </p>
--->
+
 </body>
