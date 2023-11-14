@@ -51,10 +51,6 @@
       </div>
   </div>
 
-  <p align="center">
-        <img src="multi-spinning-cube.gif" alt="Multi Spinning Donut Gif (High Def)" height="300" width="450">
-    </p>
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">   
   </p>
