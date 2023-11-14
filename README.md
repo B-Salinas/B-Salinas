@@ -4,22 +4,17 @@
 
 <body>
     <p align="center">
-        <img src="multi-spinning-cube.gif" alt="Multi Spinning Donut Gif (High Def)" height="300" width="450">
-    </p>
-    <p align="center">
-        ✊🏽✊🏾✊🏿 
-        ·
+         · · · 
         <a href="https://github.com/B-Salinas/QUBE"> ❒ </a>
-        · 
+         · · ·  
         <a href="https://github.com/B-Salinas/B-Salinas/blob/main/more.md"> About B </a>  
-        · 
+         · · ·  
         <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2023-11-Salinas-Blockchain-Resume.pdf"> Resume </a>
-        ·
+         · · · 
         <a href="https://github.com/B-Salinas/github-should-have-a-blog"> My Thoughts </a>
-        ·
+         · · · 
         <a href="https://github.com/a-salinas"> IRL Bro </a>
-        ·
-        🇲🇽 🇺🇸 🏳️‍🌈
+         · · · 
     </p>
     <div align="center" justify-content="space-between">
       <div>
@@ -55,6 +50,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="100" width="50"/>
       </div>
   </div>
+
+  <p align="center">
+        <img src="multi-spinning-cube.gif" alt="Multi Spinning Donut Gif (High Def)" height="300" width="450">
+    </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">   
