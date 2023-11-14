@@ -4,17 +4,19 @@
 
 <body>
     <p align="center">
-         · · · 
+        ✊🏽✊🏾✊🏿 
+        · 
         <a href="https://github.com/B-Salinas/QUBE"> ❒ </a>
-         · · ·  
+         ·  
         <a href="https://github.com/B-Salinas/B-Salinas/blob/main/more.md"> About B </a>  
-         · · ·  
+         · 
         <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2023-11-Salinas-Blockchain-Resume.pdf"> Resume </a>
-         · · · 
+         · 
         <a href="https://github.com/B-Salinas/github-should-have-a-blog"> My Thoughts </a>
-         · · · 
+         ·
         <a href="https://github.com/a-salinas"> IRL Bro </a>
-         · · · 
+         ·
+        🇲🇽🏳️‍🌈🏳️‍⚧️
     </p>
     <div align="center" justify-content="space-between">
       <div>
