@@ -4,7 +4,7 @@
 
 <body>
     <p align="center">
-        ✊🏽✊🏾✊🏿 
+        ✊🏽 ✊🏾 ✊🏿 
         · 
         <a href="https://github.com/B-Salinas/QUBE"> ❒ </a>
          ·  
@@ -16,7 +16,7 @@
          ·
         <a href="https://github.com/a-salinas"> IRL Bro </a>
          ·
-        🇲🇽🏳️‍🌈🏳️‍⚧️
+        🇲🇽 🏳️‍🌈 🏳️‍⚧️
     </p>
     <div align="center" justify-content="space-between">
       <div>
