@@ -52,7 +52,7 @@
       ·
       <a href="https://linkedin.com/in/b-salinas"> More about B </a>  
       ·
-      <a href="https://github.com/a-salinas"> 2-4-1-Special </a>  
+      <a href="https://github.com/a-salinas"> 2-4-1-Salinas-Special-Salsita </a>  
     </p>
     <p>
        <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">  
