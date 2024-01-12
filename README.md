@@ -8,7 +8,7 @@
     </p>
     <p align="center">
         ✊🏽 ✊🏾 ✊🏿 
-        · 
+        &nbsp; 
         🇲🇽 🏳️‍🌈 🏳️‍⚧️
     </p>
     <div align="center" justify-content="space-between">
