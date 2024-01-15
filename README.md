@@ -59,6 +59,6 @@
 </body>
 
 + _2023 - 2024 | (AI Powered) Solidity, Blockchain Development & Smart Contracts [Full Course](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)_
-+ 2020 - 2021 | Full-Stack Software Engineering Bootcamp @ App Academy 
-+ 2015 - 2019 | B.S. Mathematics @ St. Edward's University, Austin, TX
++ 2020 - 2021 | Full-Stack Software Engineering Bootcamp @ [App Academy](https://www.appacademy.io/) 
++ 2015 - 2019 | B.S. Mathematics @ [St. Edward's University](https://www.stedwards.edu/), Austin, TX
 + Interested in **Blockchain**, **Quantum Computing**, **Finances**, and **Time-Space Complexity**.
