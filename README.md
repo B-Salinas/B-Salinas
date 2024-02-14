@@ -55,7 +55,7 @@
     </p>
 </body>
 
-+ _2023 - 2024 | (AI Powered) Solidity, Blockchain Development & Smart Contracts [Full Course](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)_
++ 2023 - 2024 | (AI Powered) Solidity, Blockchain Development & Smart Contracts [Full Course](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 + 2020 - 2021 | Full-Stack Software Engineering @ [App Academy](https://www.appacademy.io/) 
 + 2015 - 2019 | B.S. Mathematics @ [St. Edward's University](https://www.stedwards.edu/)
 + Interested in **Blockchain**, **Quantum Computing**, **Finances**, and **Time-Space Complexity**.
