@@ -3,9 +3,9 @@
 </header> 
 
 <body>
-    <p align="right">
+<!--     <p align="right">
         <a href="https://github.com/B-Salinas/QUBE"> ¿ ❒ ? </a> 
-    </p>
+    </p> -->
     <p align="center">
         ✊🏽 ✊🏾 ✊🏿 
         &nbsp; 
