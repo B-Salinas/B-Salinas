@@ -42,13 +42,15 @@
       </div>
     </div>
     <p align="center">
+      <a href="https://linkedin.com/in/b-salinas"> Linkedin </a>  
+      ·
+      <a href="https://b-salinas.github.io/"> Portfolio </a>
+      ·
       <a href="https://github.com/B-Salinas/github-should-have-a-blog"> Blog </a>
       ·
       <a href="https://github.com/B-Salinas/resume-pdfs/blob/main/2023-11-Salinas-Blockchain-Resume.pdf"> Resume </a>
       ·
-      <a href="https://linkedin.com/in/b-salinas"> More about B </a>  
-      ·
-      <a href="https://github.com/a-salinas"> 2-4-1-Salinas-Special </a>  
+      <a href="https://github.com/a-salinas"> Bonus </a>  
     </p>
     <p>
        <img src="https://komarev.com/ghpvc/?username=b-salinas" alt="B Salinas's Github Profile Views">  
@@ -58,4 +60,4 @@
 + 2023 - 2024 | (AI Powered) Solidity, Blockchain Development & Smart Contracts [Full Course](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 + 2020 - 2021 | Full-Stack Software Engineering @ [App Academy](https://www.appacademy.io/) 
 + 2015 - 2019 | B.S. Mathematics @ [St. Edward's University](https://www.stedwards.edu/)
-+ Interested in **Blockchain**, **Quantum Computing**, **Finances**, and **Time-Space Complexity**.
++ Interested in Blockchain, Quantum Computing, Finances, and Time-Space Complexity.
