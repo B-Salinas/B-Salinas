@@ -7,9 +7,11 @@
         <a href="https://github.com/B-Salinas/QUBE"> ¿ ❒ ? </a> 
     </p> -->
     <p align="center">
-        ✊🏽 ✊🏾 ✊🏿 
+        ✊🏽 ✊🏾 ✊🏿 ·
         &nbsp; 
-        🇲🇽 🏳️‍🌈 🏳️‍⚧️
+        🇲🇽 🏳️‍🌈 🏳️‍⚧️ ·
+        &nbsp;
+        🇵🇸
     </p>
     <div align="center" justify-content="space-between">
       <div>
