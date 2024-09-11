@@ -61,4 +61,3 @@
 
 + 2020 - 2021 | Full-Stack Software Engineering @ [App Academy](https://www.appacademy.io/) 
 + 2015 - 2019 | B.S. Mathematics @ [St. Edward's University](https://www.stedwards.edu/)
-+ Interested in Blockchain, Quantum Computing, Finances, and Time-Space Complexity.
