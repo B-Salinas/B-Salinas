@@ -1,4 +1,4 @@
 <div align="center">
-    You're about to hack time, are you sure? <br>
-    > Yes &nbsp &nbsp &nbsp &nbsp No
+    <p> You're about to hack time, are you sure? </p>
+    <p> <b> > Yes </b> &nbsp &nbsp &nbsp &nbsp No </p> 
 </div>
