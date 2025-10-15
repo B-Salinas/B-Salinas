@@ -2,22 +2,20 @@ Happy Birthday 🎉
 
 -----
 
-DREAM COMPANIES (in no particular order)
+DREAM COMPANIES (alphabetical order, unranked otherwise)
 
 # LABS # 
 - Eureka Labs                         (https://eurekalabs.ai/)
-- Thinking Machines Lab               (https://thinkingmachines.ai/)
 - Safe Superintelligence Inc.         (https://ssi.inc/)
 - Silicon Labs                        (https://www.silabs.com/)
+- Thinking Machines Lab               (https://thinkingmachines.ai/)
 
-# ENTERPRISE
+# ENTERPRISE #
+- Nvidia                              (https://www.nvidia.com/en-us/)
 - OpenAI                              (https://openai.com/)
 - Oracle                              (https://www.oracle.com/)
-- Nvidia                              (https://www.nvidia.com/en-us/)
-- SpaceX                              (https://www.spacex.com/)
-- xAI                                 (https://x.ai/)
-
-# FINANCIAL SECTOR
-- Stripe                              (https://stripe.com/)
 - Ramp                                (https://ramp.com/)
+- SpaceX                              (https://www.spacex.com/)
+- Stripe                              (https://stripe.com/)
 - Tempo                               (https://tempo.xyz/)
+- xAI                                 (https://x.ai/)
