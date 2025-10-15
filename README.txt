@@ -19,5 +19,3 @@ DREAM COMPANIES (in no particular order)
 - Stripe                              (https://stripe.com/)
 - Ramp                                (https://ramp.com/)
 - Tempo                               (https://tempo.xyz/)
-
-
